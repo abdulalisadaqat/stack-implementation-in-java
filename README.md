@@ -14,7 +14,7 @@ This project demonstrates a simple stack data structure implemented manually usi
 ## 🚀 How to Run
 
 1. Clone the repository:  
-`git clone https://github.com/abdulalisadaqat/stack-implementation-in-java.git`
+`git clone https://github.com/abdulalisadaqat/stack-implementation-in-java.git`  
 cd `stack-implementation-in-java`  
 3. Compile the Java files:  
 Linked List: `javac Demo.java StackLinkedList.java StackNode.java`  
